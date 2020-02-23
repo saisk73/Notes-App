@@ -1,0 +1,28 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Notes App made by node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisk73/Notes-App.git"
+  },
+  "keywords": [
+    "notes",
+    "app",
+    "node.js"
+  ],
+  "author": "Sai Kiran Reddy Uppula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisk73/Notes-App/issues"
+  },
+  "homepage": "https://github.com/saisk73/Notes-App#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  }
+}
