@@ -1,6 +1,6 @@
 # Notes App
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/saisk73/Notes-App)
 
 Notes App is a node.js application by which a user can add notes and remove notes.
 ## commands
